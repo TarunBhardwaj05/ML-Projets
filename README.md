@@ -235,11 +235,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the growing ML education movement
 
 ---
-
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ by the ML community
-
-</div>
