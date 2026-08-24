@@ -208,12 +208,6 @@ Our projects use various high-quality datasets:
 
 </div>
 
-## 🤝 Community
-
-- 💬 **Discussions:** Share ideas and ask questions in [Issues](https://github.com/yourusername/Machine-Learning/issues)
-- 🐛 **Bug Reports:** Found a bug? Please report it [here](https://github.com/yourusername/Machine-Learning/issues)
-- 💡 **Feature Requests:** Suggest new projects or improvements
-
 ## 📈 Project Statistics
 
 <div align="center">
